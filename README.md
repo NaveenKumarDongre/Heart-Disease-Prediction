@@ -36,8 +36,6 @@ The dataset used for this project can be found on Kaggle at the following link:
 - For a detailed analysis of the dataset and code used in this project, refer to the [Jupyter Notebook](./main_final(with_all_metrics)_real.ipynb).
 
 
-[Link to Jupyter Notebook](jupyter_notebook.md)
-
 ## Live Project
 
 You can access the live project by following this link:
